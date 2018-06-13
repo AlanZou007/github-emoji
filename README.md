@@ -44,4 +44,4 @@
 
 ### 最后：
 
-  如果觉得有趣或者喜欢这些emoji, 那就**star**一下吧！
+  如果觉得有趣或者喜欢这些emoji, 那就 <font color="#dd0000" size="5">**star**</font> 一下吧！
