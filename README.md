@@ -42,4 +42,6 @@
 | :globe_with_meridians: (地球)	| `:globe_with_meridians:` | 国际化与本地化 |
 | :pencil2: (铅笔)	| `:pencil2:` | 修复 typo |
 
+### 最后：
 
+  如果觉得有趣或者喜欢这些emoji, 那就**star**一下吧！
