@@ -1,6 +1,8 @@
 ## github表情
+  执行 git commit 时使用 emoji 为本次提交打上一个 “标签”, 使得此次 commit 的主要工作得以凸现，也能够使得其在整个提交历史中易于区分与查找。
 
 ### 提交示例:
+
 ```
     git commit -m ':tada: Initialize Repo'
 ```
@@ -12,7 +14,7 @@
 | :art: (调色板) |	`:art:	`| 改进代码结构/代码格式 |
 | :zap: (闪电) :racehorse: (赛马) | `:zap: :racehorse:`| 提升性能 |
 | :fire: (火焰) | `:fire:` | 移除代码或文件 |
-| :bug: (bug) |`	:bug:`|	修复 bug |
+| :bug: (bug) |`:bug:`|	修复 bug |
 | :ambulance: (急救车) |	`:ambulance:`	|重要补丁|
 | :sparkles: (火花) |	`:sparkles:`|	引入新功能|
 | :memo: (备忘录) |` :memo:` |撰写文档|
@@ -39,3 +41,5 @@
 | :wrench: (扳手) |	`:wrench:`	| 修改配置文件 |
 | :globe_with_meridians: (地球)	| `:globe_with_meridians:` | 国际化与本地化 |
 | :pencil2: (铅笔)	| `:pencil2:` | 修复 typo |
+
+
